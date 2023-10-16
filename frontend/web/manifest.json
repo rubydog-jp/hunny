@@ -1,6 +1,6 @@
 {
-    "name": "honey_flutter",
-    "short_name": "honey_flutter",
+    "name": "honey",
+    "short_name": "honey",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,7 +1,7 @@
 # Honey
 
 🚀 See Docs  
-[https://HoneyOSS.github.io/docs](https://HoneyOSS.github.io/docs)
+[https://rubydog-jp.github.io/honey](https://rubydog-jp.github.io/honey)
 
 <br />
 

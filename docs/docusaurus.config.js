@@ -10,11 +10,11 @@ const config = {
   tagline: "はじめてのOSS",
   favicon: "img/favicon.ico",
 
-  url: "https://HoneyOSS.github.io",
+  url: "https://rubydog-jp.github.io",
   baseUrl: "/",
 
-  organizationName: "HoneyOSS",
-  projectName: "docs",
+  organizationName: "rubydog-jp",
+  projectName: "honey",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -62,7 +62,7 @@ const config = {
           },
           { to: "/blog", label: "ニュース", position: "left" },
           {
-            href: "https://github.com/HoneyOSS/Honey",
+            href: "https://github.com/rubydog-jp/honey",
             label: "GitHub",
             position: "right",
           },
@@ -90,7 +90,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2023 HoneyOSS. Built with Docusaurus.`,
+        copyright: `Copyright © 2023 Rubydog. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
