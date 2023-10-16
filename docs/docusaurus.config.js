@@ -11,7 +11,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   url: "https://rubydog-jp.github.io",
-  baseUrl: "/",
+  baseUrl: "/honey/",
 
   organizationName: "rubydog-jp",
   projectName: "honey",
