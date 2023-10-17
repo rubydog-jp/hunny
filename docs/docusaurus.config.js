@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Honey",
   tagline: "はじめてのOSS",
-  favicon: "img/favicon.ico",
+  favicon: "img/favicon.png",
 
   url: "https://rubydog-jp.github.io",
   baseUrl: "/honey/",
