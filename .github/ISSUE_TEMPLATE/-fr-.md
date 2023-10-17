@@ -9,5 +9,5 @@ assignees: ''
 
 **Related Problem**
 **Solution**
-*Alternatives**
+**Alternatives**
 **Additional context**
