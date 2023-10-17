@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**Describe**
+**Describe**  
 
-**To Reproduce**
+**To Reproduce**  
 
-**Expected behavior**
+**Expected behavior**  
 
-**Screenshots**
+**Screenshots**  
 
-**Device**
+**Device**  
 
 **Additional context**

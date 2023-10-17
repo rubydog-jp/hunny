@@ -7,7 +7,10 @@ assignees: ''
 
 ---
 
-**Related Problem**
-**Solution**
-**Alternatives**
+**Related Problem**  
+
+**Solution**  
+
+**Alternatives**  
+
 **Additional context**
