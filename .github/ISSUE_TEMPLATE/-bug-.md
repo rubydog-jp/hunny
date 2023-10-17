@@ -1,13 +1,13 @@
 ---
 name: "[Bug]"
-about: Create a report to help us improve
+about: Bug Report
 title: "[Bug] "
 labels: ''
 assignees: ''
 
 ---
 
-**Describe **
+**Describe**
 
 **To Reproduce**
 
@@ -15,6 +15,6 @@ assignees: ''
 
 **Screenshots**
 
-**Device (OS, version, browser, etc)**
+**Device**
 
 **Additional context**
