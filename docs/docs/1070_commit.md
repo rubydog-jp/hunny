@@ -1,5 +1,5 @@
 ---
-position: 70
+position: 1070
 title: 手順6. コミット
 ---
 
