@@ -1,9 +1,9 @@
 ---
 position: 2040
-title: Q. フォークとは?
+title: Q. fork, clone とは?
 ---
 
-# Q. フォーク とは?
+# Q. fork とは?
 
 :::danger
 
@@ -11,8 +11,10 @@ title: Q. フォークとは?
 
 :::
 
-すると今、3 つのリポジトリが存在しています。
+3 つのリポジトリ
 
 - `upstream`: Rubydog が管理する中央リポジトリ
 - `origin`: 今作られたばかりの自分専用リポジトリ
 - `local`: 自分のパソコンの中のリポジトリ
+
+# Q. clone とは?

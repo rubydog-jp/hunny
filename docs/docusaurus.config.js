@@ -1,12 +1,12 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const lightCodeTheme = require("prism-react-renderer/themes/dracula");
+const darkCodeTheme = require("prism-react-renderer/themes/github");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "ハニー",
+  title: "ハニー🍯",
   tagline: "はじめてのOSS",
   favicon: "img/favicon.png",
 
@@ -58,7 +58,7 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "参加",
+            label: "手順",
           },
           { to: "/blog", label: "ニュース", position: "left" },
           {

@@ -1,9 +1,9 @@
 ---
 position: 2050
-title: Q. ブランチとは?
+title: Q. branchとは?
 ---
 
-# Q. ブランチ とは?
+# Q. branch とは?
 
 :::danger
 

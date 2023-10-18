@@ -28,3 +28,22 @@
   --ifm-color-primary-lightest: #ffc000;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* リンク用ボタン */
+a.mybtn {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  width: fit-content;
+  padding: 1rem;
+  font-weight: bold;
+  border: 2px solid #27acd9;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #27acd9;
+  transition: 0.5s;
+}
+a.mybtn:hover {
+  color: #27acd9;
+  background: #fff;
+}

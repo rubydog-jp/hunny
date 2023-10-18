@@ -1,9 +1,9 @@
 ---
 position: 2070
-title: Q. プルリクエストとは?
+title: Q. Pull Requestとは?
 ---
 
-# Q. プルリクエスト とは?
+# Q. Pull Request とは?
 
 :::danger
 

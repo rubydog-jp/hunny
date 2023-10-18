@@ -7,31 +7,42 @@ title: 手順2. イシュー
 
 プロジェクトに対して何かを行動を起したいときはまず **issue(イシュー)** を発行しましょう。
 
-### issue を発行する
+<br />
+
+## issue を発行
 
 今回は練習ですので 以下のような issue を作ります。  
 `<ユーザーID>` は GitHub の自分のユーザー ID に置き換えてください。
 
-```
-タイトル
-  [FR] new data of <ユーザーID>
+<br />
 
-説明
-  **Solution**
-  アプリ内に新しく <ユーザーID> のデータを追加します
-```
-
-[こちらから issue を発行](https://github.com/rubydog-jp/honey/issues)
-
-![gif](/gif/issue.gif)
-
-発行された issue 番号を覚えておきましょう。
-
-- (ここに画像)
+<a href="https://github.com/rubydog-jp/honey/issues" class='mybtn'>こちらのページから issue を発行</a>
 
 <br />
 
-### assign を待つ
+- タイトル
+  - `[FR] new data of <ユーザー ID>`
+- 説明
+  - `アプリ内に新しく <ユーザー ID> のデータを追加します`
 
-新しい issue の担当者を決めることを **assign(アサイン)** と言います。  
-issue を作ったあなた自身がアサインされるまで 0~2 日ほどお待ちください。
+<br />
+
+<br />
+
+![gif](/gif/issue.gif)
+
+<br />
+
+## issue 番号
+
+発行された issue 番号を覚えておきましょう。
+
+![image](/gif/issue_number.png)
+
+<br />
+
+## assign を待つ
+
+発行された issue に誰が対応するか決めることを **assign(アサイン)** と言います。  
+当プロジェクトでは issue を作ったあなた自身がアサインされますので 0~2 日ほどお待ちください。  
+今回は練習ですのでアサインを待たずに作業を進めてしまっても構いません。
