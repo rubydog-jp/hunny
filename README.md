@@ -1,10 +1,8 @@
-# Honey
+# ハニー 🍯
 
-🚀 See Docs  
-[https://rubydog-jp.github.io/honey](https://rubydog-jp.github.io/honey)
+OSS 活動への参加を支援するために作られた日本人向けのプロジェクト
 
 <br />
 
-日本語: 最もシンプルでフレンドリーな OSS
-
-English: The Simplest and Friendliest OSS.
+🚀 チュートリアルはこちら
+[https://rubydog-jp.github.io/honey](https://rubydog-jp.github.io/honey)
