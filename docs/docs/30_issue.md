@@ -99,6 +99,8 @@ title: 手順2. issue
 
 [こちらから issue を発行できます](https://github.com/rubydog-jp/honey/issues)
 
+![gif](/gif/issue.gif)
+
 発行された issue の番号を覚えておきましょう。
 
 <br />
