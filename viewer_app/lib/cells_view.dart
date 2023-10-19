@@ -33,13 +33,15 @@ class CellsView extends StatelessWidget {
             buildChild: (col, row) {
               final index = row * columns + col;
               final cell = cellList[index];
+
               final empty = '(${cell.address})';
+              final heighContrast = HexColor.highContrast(cell.color);
               final text = Text(
                 cell.text ?? empty,
                 maxLines: 2,
                 textAlign: TextAlign.center,
-                style: const TextStyle(
-                  color: Color(0xFF6A1917),
+                style: TextStyle(
+                  color: heighContrast,
                 ),
               );
               return text;
@@ -67,5 +69,17 @@ extension HexColor on Color {
     if (hexString.length == 6 || hexString.length == 7) buffer.write('ff');
     buffer.write(hexString.replaceFirst('#', ''));
     return Color(int.parse(buffer.toString(), radix: 16));
+  }
+
+  static Color highContrast(String hexString) {
+    Color baseColor = Colors.black; // デフォルトの基本色
+    if (hexString.length == 7 && hexString.startsWith('#')) {
+      baseColor = Color(
+        int.parse(hexString.substring(1, 7), radix: 16) + 0xFF000000,
+      );
+    }
+    // 輝度を計算して、白か黒かを選択
+    double luminance = baseColor.computeLuminance();
+    return luminance > 0.5 ? Colors.black : Colors.white;
   }
 }
