@@ -8,7 +8,7 @@ title: 完了
 
 以下のサイトを確認してみてください。あなたのデータが入っていますね！
 
-<a href="https://github.com/rubydog-jp/honey/issues" class='mybtn'>ハニー (確認サイト)</a>
+<a href="https://github.com/rubydog-jp/hunny/issues" class='mybtn'>ハニー (確認サイト)</a>
 
 <br />
 

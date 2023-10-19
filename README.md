@@ -5,4 +5,4 @@ OSS 活動への参加を支援するために作られた日本人向けのプ�
 <br />
 
 🚀 チュートリアルはこちら
-[https://rubydog-jp.github.io/honey](https://rubydog-jp.github.io/honey)
+[https://rubydog-jp.github.io/hunny](https://rubydog-jp.github.io/hunny)

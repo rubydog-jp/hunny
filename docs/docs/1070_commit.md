@@ -10,7 +10,7 @@ title: 手順6. コミット
 `<issue番号>` は 発行された issue 番号 に置き換えてください。
 
 ```
-$ git add v1/data.json
+$ git add path/to/file.txt
 $ git commit -m "feat: new data <ユーザー名> #<issue番号>"
 ```
 
@@ -30,12 +30,12 @@ $ git pull --rebase upstream main
 
 このとき、他の作業者が自分と同じデータを **先に** 編集していたときは **conflict(競合)** が発生します。  
 競合は悪いことではないので安心してください。  
-そんなときはもう一度 `honey` > `v1` > `data.json` を開いて  
+そんなときはもう一度 `hunny` > `data` > `cells.json` を開いて  
 相手の変更が残るように直してあげてください。譲り合いの精神が大切です。
 ファイルを保存したら、
 
 ```
-$ git add v1/data.json
+$ git add data/cells.json
 $ git rebase --continue
 ```
 

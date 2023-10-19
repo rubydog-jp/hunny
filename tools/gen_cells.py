@@ -9,8 +9,9 @@ cells = []
 for n in range(cellCount):
     # 何行目か
     row = n // cellCountPerRow
+    evenRow = (row % 2) == 0
 
-    if ((row % 2) == 0):
+    if (evenRow):
         # 偶数行は黄色
         color = yellow
     else:
@@ -19,11 +20,12 @@ for n in range(cellCount):
 
     # セルを作成
     cell = {
-        "position": n,
-        "name": None,
+        "address": n,
+        "github_id": None,
         "color": color,
+        "text": None,
     }
     cells.append(cell)
 
 # 出力
-io.write_json("output/data.json", cells)
+io.write_json("output", "cells.json", cells)

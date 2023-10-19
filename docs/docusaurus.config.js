@@ -11,10 +11,10 @@ const config = {
   favicon: "img/favicon.png",
 
   url: "https://rubydog-jp.github.io",
-  baseUrl: "/honey/",
+  baseUrl: "/hunny/",
 
   organizationName: "rubydog-jp",
-  projectName: "honey",
+  projectName: "hunny",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -51,7 +51,7 @@ const config = {
         title: "",
         logo: {
           alt: "image",
-          src: "img/honey-oss-logo.png",
+          src: "img/hunny-oss-logo.png",
         },
         items: [
           {
@@ -62,7 +62,7 @@ const config = {
           },
           { to: "/blog", label: "ニュース", position: "left" },
           {
-            href: "https://github.com/rubydog-jp/honey",
+            href: "https://github.com/rubydog-jp/hunny",
             label: "GitHub",
             position: "right",
           },

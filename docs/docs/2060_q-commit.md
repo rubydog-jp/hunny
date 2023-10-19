@@ -23,7 +23,7 @@ title: Q. commitとは?
 のように種類名を先頭につけます。
 
 ```
-$ git add v1/data.json
+$ git add path/to/file.txt
 $ git commit -m "feat: new data <ユーザー名> (#<issue番号>)"
 ```
 
@@ -41,12 +41,12 @@ $ git pull --rebase upstream main
 
 - (画像)
 
-競合が起こった時はもう一度 `honey` > `v1` > `data.json` を開いて  
+競合が起こった時はもう一度 `file.txt` を開いて  
 相手の変更が残るように直してあげてください。譲り合いの精神が大切です。
 ファイルを保存したら、
 
 ```
-$ git add v1/data.json
+$ git add path/to/file.txt
 $ git rebase --continue
 ```
 

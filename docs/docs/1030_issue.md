@@ -16,14 +16,14 @@ title: 手順2. イシュー
 
 <br />
 
-<a href="https://github.com/rubydog-jp/honey/issues" class='mybtn'>こちらのページから issue を発行</a>
+<a href="https://github.com/rubydog-jp/hunny/issues" class='mybtn'>こちらのページから issue を発行</a>
 
 <br />
 
 - タイトル
-  - `[FR] new data of <ユーザー ID>`
+  - `[FR] <ユーザーID> が参加`
 - 説明
-  - `アプリ内に新しく <ユーザー ID> のデータを追加します`
+  - `アプリ内に新しく <ユーザーID> のデータを追加します`
 
 <br />
 

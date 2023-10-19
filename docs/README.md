@@ -1,41 +1,19 @@
-# Website
+# チュートリアル用 Web サイト
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+docusaurus で実装
 
-### Installation
+- ローカル実行
 
-```
-$ yarn
-```
+---
 
-### Local Development
+npm start
 
-```
-$ yarn start
-```
+---
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+- デプロイ
 
-### Build
+---
 
-```
-$ yarn build
-```
+GIT_USER=rbdog DEPLOYMENT_BRANCH=gh-pages npm run deploy
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+---
