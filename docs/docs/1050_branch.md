@@ -10,6 +10,6 @@ title: 手順4. ブランチ
 `<issue番号>` は 発行された issue 番号 に置き換えてください。
 
 ```
-$ git checkout -b feat/new_cell_<ユーザー名>_<issue番号>
-$ git push origin feat/new_cell_<ユーザー名>_<issue番号>
+$ git checkout -b feat/new_cell_<ユーザーID>_<issue番号>
+$ git push origin feat/new_cell_<ユーザーID>_<issue番号>
 ```
