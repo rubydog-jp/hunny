@@ -16,12 +16,12 @@ const config = {
   organizationName: "rubydog-jp",
   projectName: "hunny",
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
 
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "ja",
+    locales: ["ja"],
   },
 
   presets: [
@@ -66,8 +66,8 @@ const config = {
           },
           { to: "/news", label: "ニュース", position: "left" },
           {
-            href: "https://github.com/rubydog-jp/hunny",
-            label: "GitHub",
+            href: "https://twitter.com/rubydog_jp",
+            label: "困ったらXで質問",
             position: "right",
           },
         ],
@@ -88,7 +88,7 @@ const config = {
             title: "関連リンク",
             items: [
               {
-                label: "Twitter",
+                label: "X(旧Twitter)",
                 href: "https://twitter.com/rubydog_jp",
               },
             ],

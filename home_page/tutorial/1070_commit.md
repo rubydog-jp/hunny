@@ -24,9 +24,7 @@ $ git commit -m "feat: new cell <ユーザーID> #<issue番号>"
 $ git pull --rebase upstream main
 ```
 
-:::danger
-
-### Conflict
+:::caution Conflict について
 
 このとき、他の作業者が自分と同じデータを **先に** 編集していたときは **conflict(競合)** が発生します。  
 競合は悪いことではないので安心してください。  

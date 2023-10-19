@@ -5,7 +5,7 @@ title: Q. issueとは?
 
 # Q. issue とは?
 
-:::danger
+:::danger 注意
 
 このページは作成途中です。もうしばらくお待ちください。
 
