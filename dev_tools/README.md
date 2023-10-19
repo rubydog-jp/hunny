@@ -4,8 +4,8 @@
 
 - セルデータの生成
 
----.sh
+```.sh
 
 python3 gen_cells.py
 
----
+```

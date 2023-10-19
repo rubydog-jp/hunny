@@ -6,7 +6,7 @@ title: 完了 🥳
 おめでとうございます 全ての手順が完了しました。これであなたも一人前の OSS コントリビューター 🎉  
 以下のサイトを確認してみてください。あなたのデータが入っていますね！
 
-<a href="https://github.com/rubydog-jp/hunny/issues" class='mybtn'>ハニー (確認ページ)</a>
+<a href="https://hunny-viewer.web.app" class='mybtn'>ハニー (確認ページ)</a>
 
 <br />
 

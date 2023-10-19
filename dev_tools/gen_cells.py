@@ -1,14 +1,14 @@
 import lib.quick_io as io
 
-cellCount = 1000
-cellCountPerRow = 6
+cellCount = 210
+cellColumns = 7
 yellow = "#FFFF00"
 orange = "#FFC000"
 
 cells = []
 for n in range(cellCount):
     # 何行目か
-    row = n // cellCountPerRow
+    row = n // cellColumns
     evenRow = (row % 2) == 0
 
     if (evenRow):

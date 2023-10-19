@@ -9,6 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_riverpod:
+  hexagon:
+  http:
 
 dev_dependencies:
   flutter_test:
