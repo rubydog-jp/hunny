@@ -10,8 +10,8 @@ title: 手順6. コミット
 `<issue番号>` は 発行された issue 番号 に置き換えてください。
 
 ```
-$ git add path/to/file.txt
-$ git commit -m "feat: new data <ユーザー名> #<issue番号>"
+$ git add data/cells.json
+$ git commit -m "feat: new cell <ユーザー名> #<issue番号>"
 ```
 
 <br />
@@ -49,5 +49,5 @@ $ git rebase --continue
 ここまでできたら GitHub へ自分の作業データを送信しておきます
 
 ```
-$ git push origin feat/new_data_<ユーザー名>_<issue番号>
+$ git push origin feat/new_cell_<ユーザー名>_<issue番号>
 ```
