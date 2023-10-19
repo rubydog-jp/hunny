@@ -25,7 +25,7 @@ Git ではそれぞれの開発を同時に進めるために作業の枝分か�
 
 ```
 # 新しいブランチを作る
-$ git checkout -b feat/new_data_<ユーザー名>_<issue番号>
+$ git checkout -b feat/new_data_<ユーザーID>_<issue番号>
 # originへ反映
-$ git push origin feat/new_data_<ユーザー名>_<issue番号>
+$ git push origin feat/new_data_<ユーザーID>_<issue番号>
 ```

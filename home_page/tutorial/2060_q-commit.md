@@ -13,7 +13,7 @@ title: Q. commitとは?
 
 ### コミットメッセージを決める
 
-- `feat: new data <ユーザー名> (#<issue番号>)`
+- `feat: new data <ユーザーID> (#<issue番号>)`
 
 のようなメッセージにします。
 
@@ -24,7 +24,7 @@ title: Q. commitとは?
 
 ```
 $ git add path/to/file.txt
-$ git commit -m "feat: new data <ユーザー名> (#<issue番号>)"
+$ git commit -m "feat: new data <ユーザーID> (#<issue番号>)"
 ```
 
 コミットが完了したら、リポジトリを最新にしておきましょう。
@@ -56,5 +56,5 @@ $ git rebase --continue
 ここまでできたら origin も最新にしておきます
 
 ```
-$ git push origin feat/new_data_<ユーザー名>_<issue番号>
+$ git push origin feat/new_data_<ユーザーID>_<issue番号>
 ```

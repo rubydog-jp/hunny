@@ -11,7 +11,7 @@ title: 手順6. コミット
 
 ```
 $ git add data/cells.json
-$ git commit -m "feat: new cell <ユーザー名> #<issue番号>"
+$ git commit -m "feat: new cell <ユーザーID> #<issue番号>"
 ```
 
 <br />
@@ -51,5 +51,5 @@ $ git rebase --continue
 ここまでできたら GitHub へ自分の作業データを送信しておきます
 
 ```
-$ git push origin feat/new_cell_<ユーザー名>_<issue番号>
+$ git push origin feat/new_cell_<ユーザーID>_<issue番号>
 ```
