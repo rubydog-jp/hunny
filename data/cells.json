@@ -1,0 +1,1262 @@
+[
+  {
+    "address": 0,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 1,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 2,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 3,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 4,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 5,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 6,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 7,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 8,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 9,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 10,
+    "github_id": "rbdog",
+    "color": "#C70067",
+    "text": "ルビードッグ"
+  },
+  {
+    "address": 11,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 12,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 13,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 14,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 15,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 16,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 17,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 18,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 19,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 20,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 21,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 22,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 23,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 24,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 25,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 26,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 27,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 28,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 29,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 30,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 31,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 32,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 33,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 34,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 35,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 36,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 37,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 38,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 39,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 40,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 41,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 42,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 43,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 44,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 45,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 46,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 47,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 48,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 49,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 50,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 51,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 52,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 53,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 54,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 55,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 56,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 57,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 58,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 59,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 60,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 61,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 62,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 63,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 64,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 65,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 66,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 67,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 68,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 69,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 70,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 71,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 72,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 73,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 74,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 75,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 76,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 77,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 78,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 79,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 80,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 81,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 82,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 83,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 84,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 85,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 86,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 87,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 88,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 89,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 90,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 91,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 92,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 93,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 94,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 95,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 96,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 97,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 98,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 99,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 100,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 101,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 102,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 103,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 104,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 105,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 106,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 107,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 108,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 109,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 110,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 111,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 112,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 113,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 114,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 115,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 116,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 117,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 118,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 119,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 120,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 121,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 122,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 123,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 124,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 125,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 126,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 127,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 128,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 129,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 130,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 131,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 132,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 133,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 134,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 135,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 136,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 137,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 138,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 139,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 140,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 141,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 142,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 143,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 144,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 145,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 146,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 147,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 148,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 149,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 150,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 151,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 152,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 153,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 154,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 155,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 156,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 157,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 158,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 159,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 160,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 161,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 162,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 163,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 164,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 165,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 166,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 167,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 168,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 169,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 170,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 171,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 172,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 173,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 174,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 175,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 176,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 177,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 178,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 179,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 180,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 181,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 182,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 183,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 184,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 185,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 186,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 187,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 188,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 189,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 190,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 191,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 192,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 193,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 194,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 195,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 196,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 197,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 198,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 199,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 200,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 201,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 202,
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
+  },
+  {
+    "address": 203,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 204,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 205,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 206,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 207,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 208,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  },
+  {
+    "address": 209,
+    "github_id": null,
+    "color": "#FFC000",
+    "text": null
+  }
+]
