@@ -22,7 +22,7 @@ title: Q. issueとは?
 
 <br />
 
-### タイトルを考える
+### タイトル
 
 - `[Bug] button is not working` ボタンが反応しません
 - `[FR] customize theme color` 色をカスタマイズする新機能
@@ -36,7 +36,7 @@ title: Q. issueとは?
 
 <br />
 
-### 詳細を考える
+### 詳細
 
 以下のようなフォーマットがよく使用されます。
 

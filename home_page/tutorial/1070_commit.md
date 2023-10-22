@@ -5,13 +5,18 @@ title: 手順6. コミット
 
 # 6. コミット
 
-作業が終わったらファイルを保存して、**commit(コミット)** をします。  
-`<ユーザーID>` は自分の GitHub ユーザー ID に置き換えてください。  
-`<issue番号>` は発行された issue 番号 に置き換えてください。
+作業が終わったらファイルを保存して、**commit(コミット)** をします。
 
 ```
 $ git add data/cells.json
 $ git commit -m "feat: new cell <ユーザーID> #<issue番号>"
+```
+
+例
+
+```
+$ git add data/cells.json
+$ git commit -m "feat: new cell rbdog #2"
 ```
 
 <br />
@@ -26,8 +31,8 @@ $ git pull --rebase upstream main
 
 :::caution Conflict について
 
-このとき、他の作業者が自分と同じデータを **先に** 編集していたときは **conflict(競合)** が発生します。  
-競合は悪いことではないので安心してください。  
+このとき、運悪く他の作業者が自分と同じデータを **先に** 編集していたときは **conflict(競合)** が発生します。  
+競合を起こしてしまうことは悪いことではないので安心してください。  
 そんなときはもう一度 `hunny` > `data` > `cells.json` を開いて  
 相手の変更が残るように直してあげてください。譲り合いの精神が大切です。
 ファイルを保存したら、
@@ -50,4 +55,10 @@ $ git rebase --continue
 
 ```
 $ git push origin feat/new_cell_<ユーザーID>_<issue番号>
+```
+
+例
+
+```
+$ git push origin feat/new_cell_rbdog_2
 ```
