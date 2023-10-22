@@ -19,3 +19,12 @@ $ git push origin feat/new_cell_<ユーザーID>_<issue番号>
 $ git checkout -b feat/new_cell_rbdog_2
 $ git push origin feat/new_cell_rbdog_2
 ```
+
+<br />
+
+コマンドを打ったあとに、gitから質問がくることがあります。
+
+`Username for XXXXXX`: ユーザーIDを聞かれています。  
+`Password for XXXXXX`: Passwordと書かれていますが、アクセストークンのことです。
+
+それぞれ自分の **ユーザーID** , **アクセストークン** を入力してください。
