@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhome_page=self.webpackChunkhome_page||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u958b\u59cb","permalink":"/hunny/news/start"}]}')}}]);
