@@ -61,9 +61,9 @@
   },
   {
     "address": 10,
-    "github_id": null,
-    "color": "#FFC000",
-    "text": null
+    "github_id": "rbdog",
+    "color": "#C70067",
+    "text": "ルビードッグ"
   },
   {
     "address": 11,
@@ -445,9 +445,9 @@
   },
   {
     "address": 74,
-    "github_id": "rbdog",
-    "color": "#C70067",
-    "text": "ルビードッグ"
+    "github_id": null,
+    "color": "#FFFF00",
+    "text": null
   },
   {
     "address": 75,
