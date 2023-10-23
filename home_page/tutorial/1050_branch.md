@@ -14,6 +14,7 @@ title: 手順4. ブランチ
 
 ```
 $ git checkout -b feat/new_cell_<ユーザーID>_<issue番号>
+$ git remote set-url origin https://<アクセストークン>@github.com/<ユーザーID>/hunny.git
 $ git push origin feat/new_cell_<ユーザーID>_<issue番号>
 ```
 
@@ -21,14 +22,10 @@ $ git push origin feat/new_cell_<ユーザーID>_<issue番号>
 
 ```
 $ git checkout -b feat/new_cell_rbdog_2
+$ git remote set-url origin https://ghp_Xxxx1122Yyyy3344Zzzz5566AaaaBbbbCccc@github.com/rbdog/hunny.git
 $ git push origin feat/new_cell_rbdog_2
 ```
 
 <br />
 
-コマンドを打ったあとに、gitから質問がくることがあります。
-
-`Username for XXXXXX`: ユーザーIDを聞かれています。  
-`Password for XXXXXX`: Passwordと書かれていますが、アクセストークンのことです。
-
-それぞれ自分の **ユーザーID** , **アクセストークン** を入力してください。
+↑ `checkout` でブランチを作って、 `remote` で通信先を設定して、 `push` でデータを送っています。
