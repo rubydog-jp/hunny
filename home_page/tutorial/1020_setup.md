@@ -64,7 +64,7 @@ $ git config --global core.autocrlf false
 
 まだ使ったことがない方は以下から **登録(サインアップ)** をお願いします。
 
-<a href="https://github.co.jp/" class='mybtn'>GitHub へ</a>
+<a href="https://github.co.jp/" class='mybtn'>GitHub 🐙</a>
 
 <br />
 
