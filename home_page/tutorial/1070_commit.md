@@ -7,6 +7,10 @@ title: 手順6. コミット
 
 作業が終わったらファイルを保存したあと、**commit(コミット)** をします。
 
+![gif](/tutorial_assets/eye-commit.gif)
+
+<br />
+
 ```
 $ git add data/cells.json
 $ git commit -m "feat: new cell <ユーザーID> #<issue番号>"

@@ -7,6 +7,8 @@ title: 手順7. プルリクエスト
 
 作業が完了したことを **ハニープロジェクト** へ知らせるため、 **Pull Request(プルリクエスト)** を作成します。
 
+![gif](/tutorial_assets/eye-pull-req.gif)
+
 <br />
 
 ## Pull Request を作成

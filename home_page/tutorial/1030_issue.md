@@ -7,6 +7,8 @@ title: 手順2. イシュー
 
 プロジェクトに対して何かを行動を起したいときはまず **issue(イシュー)** を発行しましょう。
 
+![gif](/tutorial_assets/eye-issue.gif)
+
 <br />
 
 ## issue を発行
