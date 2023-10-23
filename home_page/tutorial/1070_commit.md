@@ -55,14 +55,4 @@ $ git rebase --continue
 
 <br />
 
-ここまでできたら GitHub へ自分の作業データを送信しておきます
-
-```
-$ git push origin feat/new_cell_<ユーザーID>_<issue番号>
-```
-
-例
-
-```
-$ git push origin feat/new_cell_rbdog_2
-```
+特に問題なくここまで来れたら、ゴールはあと少しです！

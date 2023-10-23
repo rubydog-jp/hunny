@@ -11,6 +11,24 @@ title: 手順7. プルリクエスト
 
 <br />
 
+## Push
+
+ひとまず GitHub へ自分の作業データを送信しておきます
+
+```
+$ git push origin feat/new_cell_<ユーザーID>_<issue番号>
+```
+
+例
+
+```
+$ git push origin feat/new_cell_rbdog_2
+```
+
+<br />
+
+<br />
+
 ## Pull Request を作成
 
 以下のようなタイトルで作成します。
