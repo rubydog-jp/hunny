@@ -68,7 +68,7 @@ $ git config --global core.autocrlf false
 
 <br />
 
-### GitHubユーザーID
+### ユーザーID
 
 ![image](/tutorial_assets/github_id.png)
 
