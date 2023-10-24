@@ -83,6 +83,8 @@ $ git config --global core.autocrlf false
 アクセストークンはこれからの作業で使う秘密のパスワードのようなものです。
 
 ![gif](/tutorial/access-token.gif)  
+![gif](/tutorial/access-token-digest.png)
+
 <a href="https://github.com/settings/tokens" class='linkbutton'>アクセストークン作成</a>
 
 <br />
