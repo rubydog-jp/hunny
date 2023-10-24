@@ -6,14 +6,14 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rubydog-jp.github.io/hunny/news"/>
     <subtitle>ハニー🍯 Blog</subtitle>
-    <icon>https://rubydog-jp.github.io/hunny/img/favicon.png</icon>
+    <icon>https://rubydog-jp.github.io/hunny/general/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[プロジェクト開始]]></title>
         <id>https://rubydog-jp.github.io/hunny/news/start</id>
         <link href="https://rubydog-jp.github.io/hunny/news/start"/>
         <updated>2023-10-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[このたび新しいプロジェクト「ハニー」を開始いたしました 🎉]]></summary>
-        <content type="html"><![CDATA[<p>このたび新しいプロジェクト「ハニー」を開始いたしました 🎉</p><p><img loading="lazy" alt="image" src="/hunny/assets/images/hunny-started-6d2520c68896b2ca32f44506ceedd446.png" width="1280" height="720" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p>このたび新しいプロジェクト「ハニー」を開始いたしました 🎉</p><p><img loading="lazy" alt="image" src="/hunny/assets/images/hunny-start-6d2520c68896b2ca32f44506ceedd446.png" width="1280" height="720" class="img_ev3q"></p>]]></content>
         <category label="anniversary" term="anniversary"/>
         <category label="release" term="release"/>
     </entry>
