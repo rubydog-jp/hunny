@@ -5,21 +5,22 @@ title: 手順1. 準備
 
 # 1. 準備
 
-まずは必要な環境を揃えていきます。  
+まずはパソコンに必要な道具を揃えていきます。  
 今回のチュートリアルで必要なものは **Git(ギット)**, **GitHub(ギットハブ)** の 2 つです。
 
-![image](/tutorial_assets/git_github.png)
+![image](/tutorial/git-github.png)
 
 <br />
 
-## Git
+<br />
+
+# Git
 
 - Mac をお使いの方は、最初から用意されているので準備は不要です。
 - Windows をお使いの方は事前に準備をお願いします。
 
-<a href="https://gitforwindows.org/" class='mybtn'>Windows版Gitはこちら</a>
-
-![image](/tutorial_assets/git-install-win.png)
+![image](/tutorial/git-install-win.png)  
+<a href="https://gitforwindows.org/" class='linkbutton'>Windows版Gitをインストール</a>
 
 <br />
 
@@ -60,17 +61,17 @@ $ git config --global core.autocrlf false
 
 <br />
 
-## GitHub
+# GitHub
 
 まだ使ったことがない方は以下から **登録(サインアップ)** をお願いします。
 
-<a href="https://github.co.jp/" class='mybtn'>GitHub 🐙</a>
+<a href="https://github.co.jp/" class='linkbutton'>GitHub 🐙</a>
 
 <br />
 
 ### ユーザーID
 
-![image](/tutorial_assets/github_id.png)
+![image](/tutorial/github_id.png)
 
 この **ユーザーID** をメモしておいてください。  
 例: `rbdog`
@@ -81,9 +82,8 @@ $ git config --global core.autocrlf false
 
 アクセストークンはこれからの作業で使う秘密のパスワードのようなものです。
 
-<a href="https://github.com/settings/tokens" class='mybtn'>アクセストークン作成</a>
-
-![gif](/tutorial_assets/access-token.gif)
+![gif](/tutorial/access-token.gif)  
+<a href="https://github.com/settings/tokens" class='linkbutton'>アクセストークン作成</a>
 
 <br />
 

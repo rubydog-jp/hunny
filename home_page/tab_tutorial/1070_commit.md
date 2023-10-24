@@ -7,9 +7,11 @@ title: 手順6. コミット
 
 作業が終わったらファイルを保存したあと、**commit(コミット)** をします。
 
-![gif](/tutorial_assets/eye-commit.gif)
+![gif](/tutorial/eye-commit.gif)
 
 <br />
+
+## Commit
 
 ```
 $ git add data/cells.json
@@ -25,7 +27,9 @@ $ git commit -m "feat: new cell rbdog #2"
 
 <br />
 
-## 最新データを取り込む
+<br />
+
+## Pull
 
 コミットが完了したら、最新のハニープロジェクトからデータを取り込んでおきましょう。
 
