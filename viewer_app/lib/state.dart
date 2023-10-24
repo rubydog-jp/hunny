@@ -7,17 +7,17 @@ final cellsProvider = AsyncNotifierProvider<CellsNotifier, Cells>(() {
 });
 
 class CellsNotifier extends AsyncNotifier<Cells> {
-  final gitHub = GitHub();
+  final github = Github();
 
   @override
   Future<Cells> build() async {
-    return gitHub.getCells();
+    return github.getCells();
   }
 
   Future<void> refreshCells() async {
+    // 古いデータは不要なので copyWithPrevious はしない
     state = const AsyncValue.loading();
-    final gitHub = GitHub();
-    final cells = await gitHub.getCells();
+    final cells = await github.getCells();
     state = AsyncValue.data(cells);
   }
 }

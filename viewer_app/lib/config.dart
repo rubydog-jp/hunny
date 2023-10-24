@@ -1,0 +1,1 @@
+const columns = 7;
