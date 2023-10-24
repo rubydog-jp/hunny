@@ -1,6 +1,6 @@
 ---
 position: 1100
-title: OSSの紹介
+title: おまけ. OSSの紹介
 ---
 
 # OSSプロジェクトのご紹介
@@ -50,11 +50,11 @@ AI開発のために 2023年に公開されたばかりの新しいプログラ�
 - 以下のページでは **プログラミング言語** や **技術キーワードごと** にプロジェクトを検索できます。
 - 公開されているからと言ってOSSとは限らないので、ライセンスなどの説明をよく読んでください。
 
-<a href="https://github.com/topics" class='mybtn'>GitHub トピック🗒</a>
+<a href="https://github.com/topics" class='linkbutton'>GitHub トピック🗒</a>
 
 <br />
 
 - 以下のページでは **今熱いプロジェクト** が **毎日更新** されています。
 - IT系ニュースよりも最新の情報を知りたいならここからどうぞ！
 
-<a href="https://github.com/trending" class='mybtn'>GitHub トレンド🔥</a>
+<a href="https://github.com/trending" class='linkbutton'>GitHub トレンド🔥</a>

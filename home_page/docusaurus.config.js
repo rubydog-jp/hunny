@@ -1,14 +1,15 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
+// コードブロックは強調のためライトとダークで逆にする
 const lightCodeTheme = require("prism-react-renderer/themes/dracula");
 const darkCodeTheme = require("prism-react-renderer/themes/github");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "ハニー🍯",
-  tagline: "はじめてのOSS",
-  favicon: "img/favicon.png",
+  tagline: "はじめての共同開発、失敗し放題",
+  favicon: "general/favicon.png",
 
   url: "https://rubydog-jp.github.io",
   baseUrl: "/hunny/",
@@ -30,12 +31,12 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          path: "tutorial",
+          path: "tab_tutorial",
           routeBasePath: "tutorial",
           sidebarPath: require.resolve("./sidebars.js"),
         },
         blog: {
-          path: "news",
+          path: "tab_news",
           routeBasePath: "news",
           showReadingTime: false,
           blogTitle: "ニュース",
@@ -50,12 +51,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: "img/docusaurus-social-card.jpg",
+      image: "general/hunny-oss-logo.png",
       navbar: {
         title: "",
         logo: {
           alt: "image",
-          src: "img/hunny-oss-logo.png",
+          src: "general/hunny-oss-logo.png",
         },
         items: [
           {
@@ -82,6 +83,10 @@ const config = {
                 label: "ホーム画面",
                 to: "/",
               },
+              {
+                label: "再開/中断",
+                to: "/tutorial/q-suspend-restart",
+              },
             ],
           },
           {
@@ -90,6 +95,10 @@ const config = {
               {
                 label: "X(旧Twitter)",
                 href: "https://twitter.com/rubydog_jp",
+              },
+              {
+                label: "ハニー (確認ページ)",
+                href: "https://hunny-viewer.web.app",
               },
             ],
           },

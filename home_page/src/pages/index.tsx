@@ -3,11 +3,10 @@ import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import HomepageFeatures from "@site/src/components/";
-
+import PRs from "@site/src/components/";
 import styles from "./index.module.css";
 
-function HomepageHeader() {
+function Header() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
@@ -31,9 +30,9 @@ export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout title={`Home`} description="ハニー🍯ホームページ<head />">
-      <HomepageHeader />
+      <Header />
       <main>
-        <HomepageFeatures />
+        <PRs />
       </main>
     </Layout>
   );

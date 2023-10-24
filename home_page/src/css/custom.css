@@ -22,7 +22,7 @@
 }
 
 /* リンク用ボタン */
-a.mybtn {
+a.linkbutton {
   display: block;
   text-align: center;
   text-decoration: none;
@@ -35,7 +35,7 @@ a.mybtn {
   background-color: #27acd9;
   transition: 0.5s;
 }
-a.mybtn:hover {
+a.linkbutton:hover {
   color: #27acd9;
   background: #fff;
 }

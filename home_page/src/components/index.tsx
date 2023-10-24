@@ -13,17 +13,19 @@ const prs: PR[] = [
   {
     image: "pr-1.png",
     title: "OSS開発者になろう",
-    description: <>気軽に参加できます</>,
+    description: <>条件はありません。誰でも気軽に体験できます</>,
   },
   {
     image: "pr-2.png",
     title: "間違えても大丈夫",
-    description: <>誰だって最初は初心者！</>,
+    description: (
+      <>誰だって最初は初心者！今までは個人開発のみだった方もご体験ください。</>
+    ),
   },
   {
     image: "pr-3.png",
     title: "参加は簡単",
-    description: <>ミニマルな手順で説明！</>,
+    description: <>必要最低限の手順で説明！</>,
   },
 ];
 
@@ -32,7 +34,7 @@ function PRItem({ title, image, description }: PR) {
     <div className={clsx("col col--4")}>
       <div className="text--center">
         <div className="img--center">
-          <img src={"img/" + image} width="40%" />
+          <img src={"general/" + image} width="40%" />
         </div>
       </div>
       <div className="text--center padding-horiz--md">
