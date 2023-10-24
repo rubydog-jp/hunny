@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:app/console.dart';
 
 class Cell {
