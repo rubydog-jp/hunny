@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhome_page=self.webpackChunkhome_page||[]).push([[297],{4710:e=>{e.exports=JSON.parse('[{"label":"anniversary","permalink":"/hunny/news/tags/anniversary","count":1},{"label":"release","permalink":"/hunny/news/tags/release","count":1}]')}}]);
