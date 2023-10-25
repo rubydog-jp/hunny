@@ -19,7 +19,11 @@ title: 手順1. 準備
 <details>
   <summary>Macの方</summary>
     <div>
-      最初から用意されているので準備は不要です。
+      Macでは最初からGitが用意されているので準備は不要です。<br /> 
+      ただし、まれに他のソフトの影響でエラーになることがあります。 エラー内容 xcrun: error: invalid active developer <br /> 
+      このエラーが出たときは以下のコマンドで解決してください。 <br />
+      xcode-select --install <br />
+      質問に同意したあと、完了までしばらく時間がかかりますのでお待ちください。
     </div>
 </details>
 
@@ -45,13 +49,13 @@ $ git --version
 
 Mac では **ターミナル** 、 Windows では **Powershell** を開いて上記のコマンドを入力します。  
 `2.39.2` のように何か **バージョンが表示されれば Git が使えます** 。  
-ちなみに `$ ` は 1回分のコマンドを表すただの記号ですので 入力する必要はありません。
+ちなみに `$ ` は 1 回分のコマンドを表すただの記号ですので 入力する必要はありません。
 
 <br />
 
 ### 初回設定
 
-Gitに自分の名前と、メールアドレスの設定をします。  
+Git に自分の名前と、メールアドレスの設定をします。  
 ついでに `core.autocrlf false` も設定しておくことをオススメします。
 
 ```
@@ -78,15 +82,15 @@ $ git config --global core.autocrlf false
 
 まだ使ったことがない方は以下から **登録(サインアップ)** をお願いします。
 
-<a href="https://github.co.jp/" class='linkbutton'>GitHubにサインアップ 🐙</a>
+<a href="https://github.co.jp/" class='linkbutton'>GitHub にサインアップ 🐙</a>
 
 <br />
 
-### ユーザーID
+### ユーザー ID
 
 ![image](/tutorial/github_id.png)
 
-この **ユーザーID** をメモしておいてください。  
+この **ユーザー ID** をメモしておいてください。  
 例: `rbdog`
 
 <br />
