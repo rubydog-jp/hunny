@@ -1,9 +1,9 @@
 ---
-position: 2070
-title: Q. Pull Requestとは?
+position: 106
+title: Pull Request
 ---
 
-# Q. Pull Request とは?
+# Pull Request とは?
 
 :::danger 注意
 

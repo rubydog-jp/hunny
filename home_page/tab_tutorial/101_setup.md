@@ -1,5 +1,5 @@
 ---
-position: 1020
+position: 101
 title: 手順1. 準備
 ---
 
@@ -16,11 +16,24 @@ title: 手順1. 準備
 
 # Git
 
-- Mac をお使いの方は、最初から用意されているので準備は不要です。
-- Windows をお使いの方は事前に準備をお願いします。
+<details>
+  <summary>Macの方</summary>
+    <div>
+      最初から用意されているので準備は不要です。
+    </div>
+</details>
 
-![image](/tutorial/git-install-win.png)  
-<a href="https://gitforwindows.org/" class='linkbutton'>Windows版Gitをインストール</a>
+<details>
+  <summary>Windowsの方</summary>
+    <div>
+      事前に準備をお願いします
+      <img
+        src={require('/tutorial/git-install-win.png').default}
+        alt="Example banner"
+      />
+      <a href="https://gitforwindows.org/" class='linkbutton'>Windows版Gitをインストール</a>
+    </div>
+</details>
 
 <br />
 

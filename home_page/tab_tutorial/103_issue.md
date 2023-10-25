@@ -1,5 +1,5 @@
 ---
-position: 1040
+position: 103
 title: 手順3. イシュー
 ---
 

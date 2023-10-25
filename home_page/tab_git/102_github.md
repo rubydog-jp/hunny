@@ -1,17 +1,15 @@
 ---
-position: 2020
-title: Q. GitHubとは?
+position: 102
+title: GitHub
 ---
 
-# Q. GitHub とは?
+# GitHub とは?
 
 :::danger 注意
 
 このページは作成途中です。もうしばらくお待ちください。
 
 :::
-
-# GitHub って？
 
 Git とは別ものです。  
 開発中のソフトを置いておくことができる、オンラインのサービスです。  

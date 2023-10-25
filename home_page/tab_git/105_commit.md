@@ -1,9 +1,9 @@
 ---
-position: 2060
-title: Q. commitとは?
+position: 105
+title: commit
 ---
 
-# Q. commit とは?
+# commit とは?
 
 :::danger 注意
 

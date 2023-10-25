@@ -1,5 +1,5 @@
 ---
-position: 2080
+position: 202
 title: Q. チュートリアルの中断/再開
 ---
 

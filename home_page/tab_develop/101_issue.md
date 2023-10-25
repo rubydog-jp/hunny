@@ -1,9 +1,9 @@
 ---
-position: 2030
-title: Q. issueとは?
+position: 101
+title: issue
 ---
 
-# Q. issue とは?
+# issue
 
 :::danger 注意
 
