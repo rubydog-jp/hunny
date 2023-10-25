@@ -33,7 +33,7 @@ const config = {
         docs: {
           path: "tab_tutorial",
           routeBasePath: "tutorial",
-          sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: require.resolve("./sidebars/tutorial.js"),
         },
         blog: {
           path: "tab_news",
@@ -45,6 +45,18 @@ const config = {
           customCss: require.resolve("./src/css/custom.css"),
         },
       }),
+    ],
+  ],
+
+  plugins: [
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "git",
+        path: "tab_git",
+        routeBasePath: "git",
+        sidebarPath: require.resolve("./sidebars/git.js"),
+      },
     ],
   ],
 
@@ -60,10 +72,16 @@ const config = {
         },
         items: [
           {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
             position: "left",
+            to: "/tutorial/intro",
             label: "チュートリアル",
+            activeBaseRegex: `/tutorial/`,
+          },
+          {
+            position: "left",
+            to: "/git/index",
+            label: "Git知識",
+            activeBaseRegex: `/git/`,
           },
           { to: "/news", label: "ニュース", position: "left" },
           {

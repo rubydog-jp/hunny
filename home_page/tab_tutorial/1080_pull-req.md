@@ -16,14 +16,12 @@ title: 手順7. プルリクエスト
 ひとまず作業が完了したデータを GitHub へ送信しておきます
 
 ```
-$ git remote set-url origin https://<アクセストークン>@github.com/<ユーザーID>/hunny.git
 $ git push origin feat/new_cell_<ユーザーID>_<issue番号>
 ```
 
 例
 
 ```
-$ git remote set-url origin https://ghp_Xxxx1122Yyyy3344Zzzz5566AaaaBbbbCccc@github.com/rbdog/hunny.git
 $ git push origin feat/new_cell_rbdog_2
 ```
 

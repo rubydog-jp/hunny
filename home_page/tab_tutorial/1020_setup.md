@@ -42,8 +42,8 @@ Gitに自分の名前と、メールアドレスの設定をします。
 ついでに `core.autocrlf false` も設定しておくことをオススメします。
 
 ```
-$ git config --global user.name "名前"
-$ git config --global user.email "メールアドレス"
+$ git config --global user.name "ここはなんでも好きな名前"
+$ git config --global user.email "開発に使うメールアドレス"
 $ git config --global core.autocrlf false
 ```
 
@@ -65,7 +65,7 @@ $ git config --global core.autocrlf false
 
 まだ使ったことがない方は以下から **登録(サインアップ)** をお願いします。
 
-<a href="https://github.co.jp/" class='linkbutton'>GitHub 🐙</a>
+<a href="https://github.co.jp/" class='linkbutton'>GitHubにサインアップ 🐙</a>
 
 <br />
 
