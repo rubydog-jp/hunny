@@ -1,5 +1,5 @@
 ---
-position: 1050
+position: 104
 title: 手順4. ブランチ
 ---
 

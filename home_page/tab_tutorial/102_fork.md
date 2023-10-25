@@ -1,5 +1,5 @@
 ---
-position: 1030
+position: 102
 title: 手順2. フォークとクローン
 ---
 

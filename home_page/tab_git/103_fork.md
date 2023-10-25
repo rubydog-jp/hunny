@@ -1,9 +1,9 @@
 ---
-position: 2040
-title: Q. fork, clone とは?
+position: 103
+title: fork
 ---
 
-# Q. fork とは?
+# fork とは?
 
 :::danger 注意
 
@@ -16,5 +16,3 @@ title: Q. fork, clone とは?
 - `upstream`: Rubydog が管理する中央リポジトリ
 - `origin`: 今作られたばかりの自分専用リポジトリ
 - `local`: 自分のパソコンの中のリポジトリ
-
-# Q. clone とは?

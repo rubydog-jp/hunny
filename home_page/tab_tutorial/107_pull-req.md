@@ -1,5 +1,5 @@
 ---
-position: 1080
+position: 107
 title: 手順7. プルリクエスト
 ---
 

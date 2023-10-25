@@ -58,6 +58,15 @@ const config = {
         sidebarPath: require.resolve("./sidebars/git.js"),
       },
     ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "develop",
+        path: "tab_develop",
+        routeBasePath: "develop",
+        sidebarPath: require.resolve("./sidebars/develop.js"),
+      },
+    ],
   ],
 
   themeConfig:
@@ -82,6 +91,12 @@ const config = {
             to: "/git/index",
             label: "Git知識",
             activeBaseRegex: `/git/`,
+          },
+          {
+            position: "left",
+            to: "/develop/index",
+            label: "共同開発",
+            activeBaseRegex: `/develop/`,
           },
           { to: "/news", label: "ニュース", position: "left" },
           {
