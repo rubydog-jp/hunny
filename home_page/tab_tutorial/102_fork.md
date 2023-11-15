@@ -5,6 +5,8 @@ title: 手順2. フォークとクローン
 
 # 2. フォークとクローン
 
+![image](/tutorial/stepper-2.png)
+
 プロジェクトのデータを準備します。  
 最初は **fork(フォーク)** から始めましょう。
 
@@ -44,9 +46,9 @@ $ git clone https://ghp_Xxxx1122Yyyy3344Zzzz5566AaaaBbbbCccc@github.com/rbdog/hu
 
 <br />
 
-## upstreamを設定
+## upstream を設定
 
-ハニープロジェクト本体のURLを`upstream` として Git に登録しておきます
+ハニープロジェクト本体の URL を`upstream` として Git に登録しておきます
 
 ```
 $ cd hunny
@@ -62,6 +64,6 @@ $ git remote add upstream https://github.com/rubydog-jp/hunny.git
 
 <br />
 
-## 準備OK
+## 準備 OK
 
 これで活動の準備ができました。
