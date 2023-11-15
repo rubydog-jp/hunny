@@ -5,6 +5,8 @@ title: 手順6. コミット
 
 # 6. コミット
 
+![image](/tutorial/stepper-6.png)
+
 作業が終わったらファイルを保存したあと、**commit(コミット)** をします。
 
 ![gif](/tutorial/eye-commit.gif)
