@@ -36,11 +36,12 @@ GitHub の画面からハニープロジェクトをフォークします。
 $ git clone https://<アクセストークン>@github.com/<ユーザーID>/hunny.git
 ```
 
-例
-
-```
+<details>
+  <summary> 例 </summary>
+  <pre>
 $ git clone https://ghp_Xxxx1122Yyyy3344Zzzz5566AaaaBbbbCccc@github.com/rbdog/hunny.git
-```
+  </pre>
+</details>
 
 <br />
 
@@ -55,12 +56,13 @@ $ cd hunny
 $ git remote add upstream https://github.com/rubydog-jp/hunny.git
 ```
 
-例
-
-```
-$ cd hunny
+<details>
+  <summary> 例 </summary>
+  <pre>
+$ cd hunny <br />
 $ git remote add upstream https://github.com/rubydog-jp/hunny.git
-```
+  </pre>
+</details>
 
 <br />
 

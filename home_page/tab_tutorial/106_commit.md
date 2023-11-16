@@ -20,12 +20,13 @@ $ git add data/cells.json
 $ git commit -m "feat: new cell <ユーザーID> #<issue番号>"
 ```
 
-例
-
-```
-$ git add data/cells.json
+<details>
+  <summary> 例 </summary>
+  <pre>
+$ git add data/cells.json <br />
 $ git commit -m "feat: new cell rbdog #2"
-```
+  </pre>
+</details>
 
 <br />
 

@@ -21,11 +21,12 @@ title: 手順7. プルリクエスト
 $ git push origin feat/new_cell_<ユーザーID>_<issue番号>
 ```
 
-例
-
-```
+<details>
+  <summary> 例 </summary>
+  <pre>
 $ git push origin feat/new_cell_rbdog_2
-```
+  </pre>
+</details>
 
 :::caution ここでエラーが起こったとき
 

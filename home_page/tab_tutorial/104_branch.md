@@ -18,8 +18,9 @@ issue が自分にアサインされたら、いよいよ作業を始めてい�
 $ git checkout -b feat/new_cell_<ユーザーID>_<issue番号>
 ```
 
-例
-
-```
+<details>
+  <summary> 例 </summary>
+  <pre>
 $ git checkout -b feat/new_cell_rbdog_2
-```
+  </pre>
+</details>
