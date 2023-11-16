@@ -20,13 +20,17 @@ title: 手順1. 準備
 
 <details>
   <summary>Macの方</summary>
-    <div>
+  <div>
       Macでは最初からGitが用意されているので準備は不要です。<br /> 
-      ただし、まれに他のソフトの影響でエラーになることがあります。 エラー内容 xcrun: error: invalid active developer <br /> 
-      このエラーが出たときは以下のコマンドで解決してください。 <br />
-      xcode-select --install <br />
-      質問に同意したあと、完了までしばらく時間がかかりますのでお待ちください。
-    </div>
+      ただし、まれに他のソフトの影響でエラーになることがあります。 エラー内容 <code>xcrun: error: invalid active developer</code><br /> 
+      このエラーが出たときは以下のコマンドで解決してください。
+  </div>
+  <pre>
+$ xcode-select --install
+  </pre>
+  <div>
+  質問に同意したあと、完了までしばらく時間がかかりますのでお待ちください。
+  </div>
 </details>
 
 <details>
@@ -67,13 +71,14 @@ $ git config --global user.email "開発に使うメールアドレス"
 $ git config --global core.autocrlf false
 ```
 
-例
-
-```
-$ git config --global user.name "ルビードッグ"
-$ git config --global user.email "rubydog@example.com"
-$ git config --global core.autocrlf false
-```
+<details>
+  <summary> 例 </summary>
+  <pre>
+$ git config --global user.name "ルビードッグ" <br />
+$ git config --global user.email "rubydog@example.com" <br />
+$ git config --global core.autocrlf false 
+  </pre>
+</details>
 
 <br />
 
