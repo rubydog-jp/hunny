@@ -35,12 +35,12 @@ const config = {
           routeBasePath: "tutorial",
           sidebarPath: require.resolve("./sidebars/tutorial.js"),
         },
-        blog: {
-          path: "tab_news",
-          routeBasePath: "news",
-          showReadingTime: false,
-          blogTitle: "ニュース",
-        },
+        // blog: {
+        //   path: "tab_news",
+        //   routeBasePath: "news",
+        //   showReadingTime: false,
+        //   blogTitle: "ニュース",
+        // },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
@@ -98,7 +98,6 @@ const config = {
             label: "共同開発",
             activeBaseRegex: `/develop/`,
           },
-          { to: "/news", label: "ニュース", position: "left" },
           {
             href: "https://twitter.com/rubydog_jp",
             label: "困ったらXで質問",
