@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhome_page=self.webpackChunkhome_page||[]).push([[292],{3930:e=>{e.exports=JSON.parse('{"permalink":"/hunny/news/tags/anniversary","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"\u30cb\u30e5\u30fc\u30b9"}')}}]);

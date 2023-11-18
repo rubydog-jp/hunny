@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhome_page=self.webpackChunkhome_page||[]).push([[5858],{2941:e=>{e.exports=JSON.parse('{"label":"release","permalink":"/hunny/news/tags/release","allTagsPath":"/hunny/news/tags","count":1}')}}]);
