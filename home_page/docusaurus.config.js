@@ -6,8 +6,8 @@ const config = {
   tagline: "引越ししました",
   favicon: "general/favicon.png",
 
-  url: "https://rubydog-jp.github.io",
-  baseUrl: "/hunny/",
+  url: "https://old-hunny.rubydog.jp",
+  baseUrl: "/",
 
   organizationName: "rubydog-jp",
   projectName: "hunny",
